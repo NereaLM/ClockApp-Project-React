@@ -1,0 +1,21 @@
+.countdown{
+    color: chartreuse;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    border: 15rem;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+.title{
+    color: aqua;
+    /* width: 5px; */
+  
+  } 
+
+.count{
+    color: chartreuse;
+    margin-top: 100px;
+    font-size: 50px;
+  }
+  
